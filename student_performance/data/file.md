@@ -1,1 +1,0 @@
-kaggle competitions download -c predict-student-performance-from-game-play
